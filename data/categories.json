@@ -1,0 +1,29 @@
+[
+    {
+        "nameEn": "Skin Tone Unification",
+        "nameAr": "توحيد لون البشرة",
+        "slug": "skin-tone-unification",
+        "descriptionEn": "Soaps designed to even out skin tone and reduce pigmentation for a radiant, uniform complexion",
+        "descriptionAr": "صابون مصمم لتوحيد لون البشرة وتقليل التصبغات للحصول على بشرة مشرقة وموحدة اللون",
+        "order": 1,
+        "isActive": true
+    },
+    {
+        "nameEn": "Softness & Radiance",
+        "nameAr": "نعومة و نضارة",
+        "slug": "softness-radiance",
+        "descriptionEn": "Luxurious soaps that nourish and hydrate, leaving skin soft, smooth, and glowing",
+        "descriptionAr": "صابون فاخر يغذي ويرطب البشرة ويتركها ناعمة ملساء ومشرقة",
+        "order": 2,
+        "isActive": true
+    },
+    {
+        "nameEn": "Exfoliation & Brightening",
+        "nameAr": "تقشير و تبييض و تفتيح",
+        "slug": "exfoliation-brightening",
+        "descriptionEn": "Gentle exfoliating soaps that brighten and renew skin by removing dead cells for a fresh, luminous glow",
+        "descriptionAr": "صابون مقشر لطيف يفتح ويجدد البشرة عن طريق إزالة الخلايا الميتة للحصول على إشراقة نضرة ومضيئة",
+        "order": 3,
+        "isActive": true
+    }
+]

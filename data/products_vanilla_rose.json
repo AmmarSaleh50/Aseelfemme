@@ -1,0 +1,42 @@
+[
+    {
+        "nameAr": "صابونة الفانيلا الوردية - صغيرة",
+        "nameEn": "Pink Vanilla Soap - Small",
+        "slug": "pink-vanilla-soap-small",
+        "shortDescriptionAr": "صابون طبيعي على شكل وردة بخلاصة الفانيلا الطبيعية - الحجم الصغير",
+        "shortDescriptionEn": "Natural rose-shaped soap with vanilla extract - Small size",
+        "longDescriptionAr": "صابونة صغيرة أنيقة على شكل وردة مصنوعة يدوياً بخلاصة الفانيلا الطبيعية. تتميز برائحتها الدافئة والمهدئة التي تمنحك شعوراً بالراحة والاسترخاء. مثالية للاستخدام اليومي أو كهدية فاخرة. لونها الوردي الجميل يضفي لمسة جمالية على حمامك.",
+        "longDescriptionEn": "An elegant small rose-shaped soap handcrafted with natural vanilla extract. Features a warm, soothing scent that provides comfort and relaxation. Perfect for daily use or as a luxurious gift. Its beautiful pink color adds an aesthetic touch to your bathroom.",
+        "categoryAr": "ترطيب البشرة",
+        "categoryEn": "Skin Moisturizing",
+        "shape": "rose",
+        "color": "pink",
+        "tags": [
+            "SLS free",
+            "Hand made",
+            "100% natural extracts"
+        ],
+        "heroImageUrl": "https://placehold.co/600x600/FFB6C1/white?text=Vanilla+Rose+Small",
+        "galleryImageUrls": [],
+        "benefitsAr": [
+            "ترطيب البشرة بعمق",
+            "رائحة الفانيلا المهدئة",
+            "تنعيم البشرة",
+            "مناسب لجميع أنواع البشرة"
+        ],
+        "benefitsEn": [
+            "Deep skin hydration",
+            "Soothing vanilla scent",
+            "Softens skin",
+            "Suitable for all skin types"
+        ],
+        "skinType": "ALL",
+        "scentProfileAr": "رائحة الفانيلا الدافئة والمهدئة",
+        "scentProfileEn": "Warm and soothing vanilla fragrance",
+        "weightGrams": 50,
+        "isVegan": true,
+        "isCrueltyFree": true,
+        "isFragranceFree": false,
+        "status": "DRAFT"
+    }
+]

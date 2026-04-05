@@ -1,0 +1,64 @@
+<!--
+  Developed by Ammar Najah Saleh Saleh
+  https://aseelfemme.com
+-->
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/png" href="/logo.png" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="theme-color" content="#FAF8F6" />
+  <meta name="description"
+    content="Aseelfemme — Handcrafted organic soaps. Quiet luxury, pure clean. Made by hand, bar by bar." />
+  <meta name="keywords" content="soap, organic, handmade, skincare, luxury, natural, Damascus, Syria" />
+  <meta property="og:title" content="Aseelfemme — Handcrafted Organic Soaps" />
+  <meta property="og:description" content="Quiet luxury, pure clean. Made by hand, bar by bar." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://aseelfemme.com" />
+  <meta property="og:image" content="https://aseelfemme.com/logo.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <title>Aseelfemme — Handcrafted Organic Soaps</title>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&family=Playfair+Display:wght@500;700&display=swap"
+    rel="stylesheet" />
+  <!-- Google Analytics with Consent Mode v2 -->
+  <script>
+    // Initialize dataLayer and gtag function
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+
+    // Set default consent state BEFORE loading GA (denied until user accepts)
+    gtag('consent', 'default', {
+      'analytics_storage': 'denied',
+      'ad_storage': 'denied',
+      'ad_user_data': 'denied',
+      'ad_personalization': 'denied',
+      'wait_for_update': 500
+    });
+
+    // Check if user already accepted cookies
+    if (localStorage.getItem('af_cookie_consent') === 'accepted') {
+      gtag('consent', 'update', {
+        'analytics_storage': 'granted',
+        'ad_storage': 'granted',
+        'ad_user_data': 'granted',
+        'ad_personalization': 'granted'
+      });
+    }
+  </script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-MXT9LLD7D4"></script>
+  <script>
+    gtag('js', new Date());
+    gtag('config', 'G-MXT9LLD7D4');
+  </script>
+</head>
+
+<body class="bg-ivory text-charcoal">
+  <div id="root"></div>
+  <script type="module" src="/src/main.jsx"></script>
+</body>
+
+</html>

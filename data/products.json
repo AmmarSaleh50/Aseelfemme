@@ -1,0 +1,162 @@
+[
+    {
+        "nameAr": "صابونة الورد الجوري",
+        "nameEn": "Rose Flower Soap",
+        "slug": "rose-flower-soap",
+        "shortDescriptionAr": "صابون طبيعي على شكل وردة جوري بخلاصة الورد الدمشقي",
+        "shortDescriptionEn": "Natural rose-shaped soap with Damask rose extract",
+        "longDescriptionAr": "صابونة فاخرة مصنوعة يدوياً على شكل وردة جوري رائعة. غنية بخلاصة الورد الجوري الدمشقي الطبيعية التي تعمل على ترطيب البشرة وتنعيمها بعمق. تمنحك رغوة كريمية لطيفة ورائحة زهرية فاخرة تدوم طويلاً. مثالية للبشرة الحساسة والجافة.",
+        "longDescriptionEn": "A luxurious handcrafted soap shaped like a beautiful Damask rose. Rich in natural rose extract that deeply moisturizes and softens the skin. Produces a gentle, creamy lather with a long-lasting floral fragrance. Perfect for sensitive and dry skin.",
+        "categoryAr": "ترطيب البشرة",
+        "categoryEn": "Skin Moisturizing",
+        "shape": "rose",
+        "color": "pink",
+        "tags": [
+            "SLS free",
+            "Hand made",
+            "100% natural extracts"
+        ],
+        "heroImageUrl": "https://placehold.co/600x600/FFB6C1/white?text=Rose+Soap",
+        "galleryImageUrls": [],
+        "benefitsAr": [
+            "ترطيب عميق للبشرة",
+            "تنعيم وتجديد البشرة",
+            "رائحة زهرية فاخرة",
+            "مناسب للبشرة الحساسة"
+        ],
+        "benefitsEn": [
+            "Deep skin hydration",
+            "Softens and renews skin",
+            "Luxurious floral scent",
+            "Suitable for sensitive skin"
+        ],
+        "skinType": "ALL",
+        "scentProfileAr": "رائحة الورد الجوري الدمشقي الطبيعية",
+        "scentProfileEn": "Natural Damask rose fragrance",
+        "weightGrams": 100,
+        "isVegan": true,
+        "isCrueltyFree": true,
+        "isFragranceFree": false,
+        "status": "DRAFT"
+    },
+    {
+        "nameAr": "صابونة الكركم الطبيعية",
+        "nameEn": "Natural Turmeric Soap",
+        "slug": "natural-turmeric-soap",
+        "shortDescriptionAr": "صابون طبيعي بخلاصة الكركم لتوحيد لون البشرة",
+        "shortDescriptionEn": "Natural soap with turmeric extract for even skin tone",
+        "longDescriptionAr": "صابونة طبيعية 100% غنية بخلاصة الكركم المعروف بخصائصه المضادة للالتهابات والمفتحة للبشرة. تساعد على تقليل البقع الداكنة وتوحيد لون البشرة ومنحها إشراقة طبيعية صحية. مصنوعة يدوياً بكل حب وعناية.",
+        "longDescriptionEn": "A 100% natural soap rich in turmeric extract, known for its anti-inflammatory and skin-brightening properties. Helps reduce dark spots, even out skin tone, and give your skin a healthy natural glow. Handmade with love and care.",
+        "categoryAr": "تفتيح البشرة",
+        "categoryEn": "Skin Brightening",
+        "shape": "donut",
+        "color": "orange",
+        "tags": [
+            "SLS free",
+            "Hand made",
+            "100% natural extracts"
+        ],
+        "heroImageUrl": "https://placehold.co/600x600/FFA500/white?text=Turmeric+Soap",
+        "galleryImageUrls": [],
+        "benefitsAr": [
+            "تفتيح البشرة",
+            "توحيد لون البشرة",
+            "مضاد للالتهابات",
+            "تنظيف عميق"
+        ],
+        "benefitsEn": [
+            "Brightens skin",
+            "Evens skin tone",
+            "Anti-inflammatory",
+            "Deep cleansing"
+        ],
+        "skinType": "ALL",
+        "scentProfileAr": "رائحة الكركم الطبيعية الدافئة",
+        "scentProfileEn": "Warm natural turmeric scent",
+        "weightGrams": 100,
+        "isVegan": true,
+        "isCrueltyFree": true,
+        "isFragranceFree": false,
+        "status": "DRAFT"
+    },
+    {
+        "nameAr": "صابونة الورد الحلزونية",
+        "nameEn": "Rose Swirl Soap",
+        "slug": "rose-swirl-soap",
+        "shortDescriptionAr": "صابون فني بتصميم حلزوني مع بتلات الورد الطبيعية",
+        "shortDescriptionEn": "Artistic swirl soap with natural rose petals",
+        "longDescriptionAr": "تحفة فنية من الصابون الطبيعي بتصميم حلزوني أنيق مزين ببتلات الورد الحقيقية. تجمع بين جمال الشكل وفوائد خلاصة الورد الجوري للبشرة. تمنحك تجربة استحمام فاخرة مع رغوة ناعمة ورائحة زهرية ساحرة.",
+        "longDescriptionEn": "A natural soap masterpiece with an elegant swirl design decorated with real rose petals. Combines beautiful form with the skin benefits of rose extract. Provides a luxurious bathing experience with soft lather and enchanting floral fragrance.",
+        "categoryAr": "ترطيب البشرة",
+        "categoryEn": "Skin Moisturizing",
+        "shape": "swirl",
+        "color": "pink",
+        "tags": [
+            "SLS free",
+            "Hand made",
+            "100% natural extracts"
+        ],
+        "heroImageUrl": "https://placehold.co/600x600/DDA0DD/white?text=Rose+Swirl",
+        "galleryImageUrls": [],
+        "benefitsAr": [
+            "ترطيب البشرة",
+            "تنعيم البشرة",
+            "رائحة ساحرة",
+            "تجربة استحمام فاخرة"
+        ],
+        "benefitsEn": [
+            "Moisturizes skin",
+            "Softens skin",
+            "Enchanting fragrance",
+            "Luxurious bathing experience"
+        ],
+        "skinType": "ALL",
+        "scentProfileAr": "مزيج عطري من الورد الجوري",
+        "scentProfileEn": "Rose fragrance blend",
+        "weightGrams": 100,
+        "isVegan": true,
+        "isCrueltyFree": true,
+        "isFragranceFree": false,
+        "status": "DRAFT"
+    },
+    {
+        "nameAr": "صابونة الفواكه الأورغانيك",
+        "nameEn": "Organic Fruits Soap",
+        "slug": "organic-fruits-soap",
+        "shortDescriptionAr": "صابون طبيعي بخلاصات الفواكه الطبيعية 100%",
+        "shortDescriptionEn": "Natural soap with 100% natural fruit extracts",
+        "longDescriptionAr": "صابونة منعشة مصنوعة يدوياً من خلاصات الفواكه الطبيعية 100%. غنية بالفيتامينات ومضادات الأكسدة التي تغذي البشرة وتمنحها إشراقة طبيعية. رائحة الفواكه المنعشة تمنحك شعوراً بالحيوية والانتعاش طوال اليوم.",
+        "longDescriptionEn": "A refreshing handmade soap crafted from 100% natural fruit extracts. Rich in vitamins and antioxidants that nourish the skin and give it a natural glow. The refreshing fruit scent gives you a feeling of vitality throughout the day.",
+        "categoryAr": "تغذية البشرة",
+        "categoryEn": "Skin Nourishing",
+        "shape": "donut",
+        "color": "yellow",
+        "tags": [
+            "SLS free",
+            "Hand made",
+            "100% natural extracts"
+        ],
+        "heroImageUrl": "https://placehold.co/600x600/FFD700/white?text=Fruits+Soap",
+        "galleryImageUrls": [],
+        "benefitsAr": [
+            "تغذية البشرة",
+            "غني بالفيتامينات",
+            "مضادات أكسدة طبيعية",
+            "انتعاش طوال اليوم"
+        ],
+        "benefitsEn": [
+            "Nourishes skin",
+            "Rich in vitamins",
+            "Natural antioxidants",
+            "All-day freshness"
+        ],
+        "skinType": "ALL",
+        "scentProfileAr": "مزيج منعش من الفواكه الاستوائية",
+        "scentProfileEn": "Refreshing tropical fruits blend",
+        "weightGrams": 100,
+        "isVegan": true,
+        "isCrueltyFree": true,
+        "isFragranceFree": false,
+        "status": "DRAFT"
+    }
+]

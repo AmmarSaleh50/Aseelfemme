@@ -1,0 +1,18 @@
+[
+    {
+        "nameAr": "تضييق المسام",
+        "nameEn": "Pore Tightening",
+        "descriptionAr": "منتجات مصممة خصيصاً لتضييق المسام الواسعة ومنح البشرة مظهراً أكثر نعومة وصفاءً.",
+        "descriptionEn": "Products specially designed to tighten enlarged pores and give the skin a smoother, clearer appearance.",
+        "order": 10,
+        "isActive": true
+    },
+    {
+        "nameAr": "تهدئة التهيج والاحمرار",
+        "nameEn": "Soothing Irritation & Redness",
+        "descriptionAr": "منتجات لطيفة تساعد على تهدئة البشرة المتهيجة وتقليل الاحمرار، مثالية للبشرة الحساسة.",
+        "descriptionEn": "Gentle products that help calm irritated skin and reduce redness, ideal for sensitive skin.",
+        "order": 11,
+        "isActive": true
+    }
+]

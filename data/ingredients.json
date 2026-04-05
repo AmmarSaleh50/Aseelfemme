@@ -1,0 +1,116 @@
+[
+    {
+        "nameEn": "Glycerin",
+        "nameAr": "غليسرين",
+        "slug": "glycerin",
+        "descriptionEn": "A natural humectant that draws moisture into the skin, keeping it hydrated and supple. Glycerin is gentle, non-irritating, and suitable for all skin types, especially dry and sensitive skin.",
+        "descriptionAr": "مرطب طبيعي يجذب الرطوبة إلى البشرة ويحافظ على نعومتها ومرونتها. الغليسرين لطيف وغير مهيج ومناسب لجميع أنواع البشرة، خاصة الجافة والحساسة.",
+        "benefitsEn": [
+            "Deep hydration and moisture retention",
+            "Softens and smooths skin texture",
+            "Helps repair and protect the skin barrier",
+            "Non-comedogenic and gentle on sensitive skin"
+        ],
+        "benefitsAr": [
+            "ترطيب عميق والحفاظ على رطوبة البشرة",
+            "ينعم ويحسن ملمس البشرة",
+            "يساعد على إصلاح وحماية حاجز البشرة",
+            "غير مسبب للرؤوس السوداء ولطيف على البشرة الحساسة"
+        ]
+    },
+    {
+        "nameEn": "Vanilla Distilled Water",
+        "nameAr": "ماء مقطر مع الفانيلا",
+        "slug": "vanilla-distilled-water",
+        "descriptionEn": "Pure distilled water infused with natural vanilla essence. This aromatic ingredient soothes the skin while providing a warm, comforting fragrance. Rich in antioxidants, it helps calm irritation and enhance skin radiance.",
+        "descriptionAr": "ماء مقطر نقي مُنقع بخلاصة الفانيلا الطبيعية. يهدئ هذا المكون العطري البشرة مع توفير رائحة دافئة ومريحة. غني بمضادات الأكسدة التي تساعد على تهدئة التهيج وتعزيز إشراقة البشرة.",
+        "benefitsEn": [
+            "Soothes and calms irritated skin",
+            "Rich in antioxidants for skin protection",
+            "Provides a warm, natural vanilla scent",
+            "Helps reduce inflammation and redness"
+        ],
+        "benefitsAr": [
+            "يهدئ ويلطف البشرة المتهيجة",
+            "غني بمضادات الأكسدة لحماية البشرة",
+            "يوفر رائحة فانيلا طبيعية دافئة",
+            "يساعد على تقليل الالتهاب والاحمرار"
+        ]
+    },
+    {
+        "nameEn": "Citrus Extract Distilled Water",
+        "nameAr": "ماء مقطر مع خلاصة الحمضيات",
+        "slug": "citrus-extract-distilled-water",
+        "descriptionEn": "Distilled water enriched with natural citrus extracts, bursting with vitamin C and antioxidants. This refreshing ingredient brightens the complexion, evens skin tone, and revitalizes dull, tired skin for a fresh, radiant glow.",
+        "descriptionAr": "ماء مقطر مُعزز بخلاصات الحمضيات الطبيعية، الغنية بفيتامين سي ومضادات الأكسدة. ينعش هذا المكون البشرة ويوحد لونها ويجدد البشرة الباهتة والمتعبة لإشراقة نضرة.",
+        "benefitsEn": [
+            "Brightens and evens out skin tone",
+            "Rich in vitamin C for collagen production",
+            "Refreshes and revitalizes tired skin",
+            "Natural astringent properties for tighter pores"
+        ],
+        "benefitsAr": [
+            "يفتح ويوحد لون البشرة",
+            "غني بفيتامين سي لإنتاج الكولاجين",
+            "ينعش ويجدد البشرة المتعبة",
+            "خصائص قابضة طبيعية لتضييق المسام"
+        ]
+    },
+    {
+        "nameEn": "Turmeric Distilled Water",
+        "nameAr": "ماء مقطر مع كركم",
+        "slug": "turmeric-distilled-water",
+        "descriptionEn": "Pure distilled water infused with turmeric, a renowned natural ingredient celebrated for its anti-inflammatory and brightening properties. This golden elixir helps reduce dark spots, even skin tone, and imparts a natural, healthy glow.",
+        "descriptionAr": "ماء مقطر نقي مُنقع بالكركم، مكون طبيعي مشهور بخصائصه المضادة للالتهابات والمفتحة للبشرة. يساعد هذا الإكسير الذهبي على تقليل البقع الداكنة وتوحيد لون البشرة ومنحها إشراقة طبيعية صحية.",
+        "benefitsEn": [
+            "Reduces dark spots and hyperpigmentation",
+            "Anti-inflammatory properties soothe skin",
+            "Evens skin tone for a radiant complexion",
+            "Natural antibacterial and healing benefits"
+        ],
+        "benefitsAr": [
+            "يقلل البقع الداكنة وفرط التصبغ",
+            "خصائص مضادة للالتهابات تهدئ البشرة",
+            "يوحد لون البشرة لإشراقة مضيئة",
+            "فوائد طبيعية مضادة للبكتيريا وشفائية"
+        ]
+    },
+    {
+        "nameEn": "Essential Oil",
+        "nameAr": "زيت عطري",
+        "slug": "essential-oil",
+        "descriptionEn": "Pure, concentrated plant extracts that provide therapeutic benefits and natural fragrance. Our essential oils are carefully selected for their skin-nourishing properties, aromatherapy benefits, and luxurious scents.",
+        "descriptionAr": "مستخلصات نباتية نقية ومركزة توفر فوائد علاجية ورائحة طبيعية. يتم اختيار زيوتنا العطرية بعناية لخصائصها المغذية للبشرة وفوائدها العلاجية بالروائح وعطورها الفاخرة.",
+        "benefitsEn": [
+            "Provides natural, therapeutic fragrance",
+            "Nourishes and conditions the skin",
+            "Aromatherapy benefits for relaxation",
+            "Contains natural antimicrobial properties"
+        ],
+        "benefitsAr": [
+            "يوفر رائحة طبيعية علاجية",
+            "يغذي ويرطب البشرة",
+            "فوائد العلاج بالروائح للاسترخاء",
+            "يحتوي على خصائص طبيعية مضادة للميكروبات"
+        ]
+    },
+    {
+        "nameEn": "Olive Oil",
+        "nameAr": "زيت زيتون",
+        "slug": "olive-oil",
+        "descriptionEn": "Premium extra virgin olive oil, a timeless natural ingredient rich in vitamins E and K, antioxidants, and healthy fatty acids. This Mediterranean treasure deeply moisturizes, nourishes, and protects the skin while maintaining its natural softness and elasticity.",
+        "descriptionAr": "زيت زيتون بكر ممتاز، مكون طبيعي خالد غني بفيتامينات E و K ومضادات الأكسدة والأحماض الدهنية الصحية. يرطب هذا الكنز المتوسطي البشرة بعمق ويغذيها ويحافظ على نعومتها ومرونتها الطبيعية.",
+        "benefitsEn": [
+            "Deep moisturization and intense nourishment",
+            "Rich in antioxidants and vitamins E & K",
+            "Anti-aging properties for youthful skin",
+            "Gentle and suitable for all skin types"
+        ],
+        "benefitsAr": [
+            "ترطيب عميق وتغذية مكثفة",
+            "غني بمضادات الأكسدة وفيتامينات E و K",
+            "خصائص مضادة للشيخوخة لبشرة شابة",
+            "لطيف ومناسب لجميع أنواع البشرة"
+        ]
+    }
+]

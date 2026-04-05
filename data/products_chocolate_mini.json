@@ -1,0 +1,36 @@
+[
+    {
+        "nameEn": "Mini Chocolate Soap Bar",
+        "nameAr": "صابونة الشوكولاتة الصغيرة",
+        "slug": "mini-chocolate-soap",
+        "shortDescriptionEn": "Small, practical soap bars with a delicious chocolate scent. Perfect for travel, school, or work.",
+        "shortDescriptionAr": "قطع صابون صغيرة برائحة الشوكولاتة اللذيذة. حجم عملي للمدارس والعمل والسفر.",
+        "longDescriptionEn": "Indulge in the rich aroma of chocolate with our Mini Chocolate Soap Bars. Perfectly sized for on-the-go hygiene, these bars fit easily into any bag, making them the ideal companion for school, work, restaurants, or travel. Crafted to be gentle on usage, they bring a touch of sweetness to your daily routine.",
+        "longDescriptionAr": "استمتعي برائحة الشوكولاتة الغنية مع قطع صابون الشوكولاتة الصغيرة. بحجم مثالي للتنقل، تناسب هذه القطع أي حقيبة بسهولة، مما يجعلها الرفيق المثالي للمدرسة، العمل، المطاعم، أو السفر. صُنعت لتكون لطيفة، وتضيف لمسة من الحلاوة لروتينك اليومي.",
+        "categoryEn": "Softness & Radiance",
+        "categoryAr": "نعومة و نضارة",
+        "shapeEn": "Mini Bar",
+        "shapeAr": "لوح صغير",
+        "colorEn": "Brown",
+        "colorAr": "بني",
+        "weightGrams": 15,
+        "scentProfileEn": "Rich Chocolate",
+        "scentProfileAr": "شوكولاتة غنية",
+        "skinType": "ALL",
+        "isVegan": true,
+        "isCrueltyFree": true,
+        "isFragranceFree": false,
+        "heroImageUrl": "https://placehold.co/600x600/8B4513/FFF?text=Chocolate+Mini+Bar",
+        "status": "DRAFT",
+        "tagsEn": [
+            "Travel Size",
+            "Kids Friendly",
+            "Gift"
+        ],
+        "tagsAr": [
+            "حجم للسفر",
+            "مناسب للأطفال",
+            "هدية"
+        ]
+    }
+]

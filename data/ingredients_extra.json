@@ -1,0 +1,20 @@
+[
+    {
+        "nameAr": "خلاصة الورد الجوري",
+        "nameEn": "Rose Extract",
+        "descriptionAr": "خلاصة طبيعية من الورد الجوري الدمشقي، معروفة بخصائصها المهدئة والمرطبة للبشرة. تساعد على تنعيم البشرة وإضفاء رائحة زهرية فاخرة.",
+        "descriptionEn": "Natural extract from Damask roses, known for its soothing and moisturizing properties. Helps soften the skin and provides a luxurious floral scent.",
+        "benefitsAr": [
+            "ترطيب عميق للبشرة",
+            "تهدئة البشرة الحساسة",
+            "رائحة زهرية فاخرة",
+            "مضاد للأكسدة"
+        ],
+        "benefitsEn": [
+            "Deep skin hydration",
+            "Soothes sensitive skin",
+            "Luxurious floral scent",
+            "Antioxidant properties"
+        ]
+    }
+]

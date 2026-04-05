@@ -1,0 +1,101 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --radius: 1.25rem;
+}
+.container-px {
+  @apply px-4 sm:px-6 lg:px-10;
+}
+.btn {
+  @apply inline-flex items-center justify-center rounded-full px-5 py-3 text-sm font-semibold transition-colors;
+}
+.btn-primary {
+  @apply bg-amber text-white hover:bg-amber-700;
+}
+.btn-secondary {
+  @apply bg-charcoal text-white hover:bg-black;
+}
+
+/* Elegant pill selects for filters */
+.select-pill-wrapper {
+  @apply relative inline-block;
+}
+
+.select-pill {
+  @apply appearance-none bg-ivory text-charcoal rounded-full border border-charcoal/30 px-4 py-2 pr-8 text-sm cursor-pointer shadow-sm;
+  position: relative;
+}
+
+.select-pill:focus {
+  @apply outline-none ring-1 ring-charcoal/30 border-charcoal;
+}
+
+.select-pill::after {
+  content: '\25BE'; /* small triangle arrow */
+  position: absolute;
+  right: 0.9rem;
+  top: 50%;
+  transform: translateY(-50%);
+  pointer-events: none;
+  font-size: 0.7rem;
+  color: #5a5d4f; /* secondary */
+}
+
+.select-pill-wrapper:hover .select-pill {
+  @apply border-charcoal/50;
+}
+
+/* Footer wood texture background */
+.footer-wood {
+  /* Uses a real wood texture from public/ */
+  background-image:
+    linear-gradient(rgba(0, 0, 0, 0.14), rgba(0, 0, 0, 0.18)),
+    url('/Herringbone-Wood.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+/* Global scrollbar styling */
+body {
+  overflow-x: hidden;
+}
+
+html {
+  /* For Firefox */
+  scrollbar-width: thin;
+  scrollbar-width: thin;
+  scrollbar-color: #a9a38b #F5EEDD; /* thumb, track */
+}
+
+/* WebKit-based browsers (Chrome, Edge, Safari) */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent; /* let the real page background show */
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #F5EEDD; /* soft translucent charcoal */
+  border-radius: 999px;
+  border: none;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #F5EEDD
+}
+
+/* Hide scrollbars on small screens while keeping scroll functional */
+@media (max-width: 768px) {
+  html {
+    scrollbar-width: none;
+  }
+
+  ::-webkit-scrollbar {
+    display: none;
+  }
+}
